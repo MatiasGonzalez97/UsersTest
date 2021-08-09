@@ -1,0 +1,10 @@
+{
+    "enviroment" : {
+        "desarrollo":{
+            "port":8000
+        },
+        "production":{
+            "port":8001
+        }
+    }
+}
